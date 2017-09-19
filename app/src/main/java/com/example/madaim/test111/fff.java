@@ -5,4 +5,7 @@ package com.example.madaim.test111;
  */
 
 public class fff {
+    int x;
+    char c;
+
 }
